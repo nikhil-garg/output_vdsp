@@ -1,4 +1,0 @@
-vprog,amp_neuron,vth,input_nbr,tau_in,tau_out,lr,iterations,presentation_time,pause_time,dt,n_neurons,inhibition_time,tau_ref,synapse_layer_1,winit_max,vprog_increment,voltage_clip_max,voltage_clip_min,Vapp_multiplier,gain_in,bias_in,noise_input,accuracy,accuracy_2,seed
--0.55,1.0,0.5,60000.0,0.2,0.06,1.0,1.0,0.35,0.0,0.001,10.0,10.0,0.002,,0.5,0.0,2.0,-2.0,2.0,2.0,0.2,0.0,6.4399999999999995,11.22,100.0
--0.55,1.0,0.5,60000.0,0.2,0.06,1.0,1.0,0.35,0.0,0.001,10.0,10.0,0.002,,0.5,0.0,2.0,-2.0,2.0,2.0,0.4,0.0,4.01,11.48,100.0
--0.55,1.0,0.5,60000.0,0.2,0.06,1.0,1.0,0.35,0.0,0.001,10.0,10.0,0.002,,0.5,0.0,2.0,-2.0,2.0,2.0,0.6,0.0,7.140000000000001,11.11,100.0
