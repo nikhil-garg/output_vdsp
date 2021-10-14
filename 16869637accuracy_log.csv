@@ -1,0 +1,3 @@
+input_nbr,input_scale,tau_in,tau_out,thr_out,lr,iterations,presentation_time,pause_time,dt,n_neurons,inhibition_time,tau_ref_in,bias_in,seed,accuracy,accuracy_2
+60000.0,0.003,60.0,75.0,7.0,0.0008,1.0,350.0,100.0,1.0,20.0,12.0,1.0,0.015,50.0,0.6389,0.642
+60000.0,0.003,60.0,75.0,7.0,0.0008,1.0,350.0,100.0,1.0,20.0,12.0,1.0,0.02,50.0,0.2527,0.2525
